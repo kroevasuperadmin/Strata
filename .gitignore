@@ -10,6 +10,8 @@ out_adversarial.md
 link_map.md
 workspace/*
 !workspace/.gitkeep
+!workspace/yc-w2024-research/
+!workspace/yc-w2024-research/**
 
 # Python
 __pycache__/
