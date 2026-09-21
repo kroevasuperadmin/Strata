@@ -1,0 +1,22 @@
+# Secrets / env
+.env
+.env.*
+!.env.example
+
+# Strata scratch (keep reports you choose to commit)
+out_exa.md
+out_layer*.md
+out_adversarial.md
+link_map.md
+workspace/*
+!workspace/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
